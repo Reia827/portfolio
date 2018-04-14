@@ -1,0 +1,23 @@
+img {
+    width:60%;
+  }
+
+figure {
+  border: 3px solid red;
+  padding: 1em;
+}
+
+header img {
+  margin: 2rem 0;
+}
+
+nav {
+  background-color:aqua;
+  padding:1em;
+}
+
+footer {
+  border-top-style:dotted;
+  
+}
+
